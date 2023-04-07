@@ -1,6 +1,10 @@
 [
   {
-    "name": "delectus aut autem",
+    "name": "dolor sit amet",
     "data": [1, 2, 4, 8, 16, 32, 64, 128, 256, 512]
+  },
+  {
+    "name": "Lorem Ipsum",
+    "data": [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
   }
 ]
