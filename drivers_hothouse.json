@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Wheat Price",
+        "value": 20,
+        "color": "#FF4D4D"
+    },
+    {
+        "name": "Sand, gravel and crushed stone price",
+        "value": 17,
+        "color": "#FF7D7D"
+    },
+    {
+        "name": "Steel Price",
+        "value": 11,
+        "color": "#FFB1B1"
+    },
+    {
+        "name": "Paper price",
+        "value": 10,
+        "color": "#FFB1B1"
+    },
+    {
+        "name": "Plastic Price",
+        "value": 11,
+        "color": "#FFB1B1"
+    },
+    {
+        "name": "Carbon Price",
+        "value": 7,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Electricity Price (natural gas)",
+        "value": 6,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Electricity Price (nuclear)",
+        "value": 6,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Rubber Price",
+        "value": 5,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Uranium Price",
+        "value": 3,
+        "color": "#4D4DFF"
+    },
+    {
+        "name": "Nickel Price",
+        "value": 2,
+        "color": "#1919FF"
+    },
+    {
+        "name": "Palm oil price",
+        "value": 2,
+        "color": "#1919FF"
+    }
+]
