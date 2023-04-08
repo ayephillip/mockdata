@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Electricity Price (Natural Gas Price)",
+        "value": 35,
+        "color": "#FF4D4D"
+    },
+    {
+        "name": "Carbon Price",
+        "value": 20,
+        "color": "#FF7D7D"
+    },
+    {
+        "name": "Sand, Gravel and Crushed stone Price",
+        "value": 10,
+        "color": "#FFB1B1"
+    },
+    {
+        "name": "Rubber Price",
+        "value": 7,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Steal Price",
+        "value": 5,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Paper Price",
+        "value": 5,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Electricity Price (nuclear)",
+        "value": 6,
+        "color": "#B1B1FF"
+    },
+    {
+        "name": "Nickel Price",
+        "value": 3,
+        "color": "#4D4DFF"
+    },
+    {
+        "name": "Wheat Price",
+        "value": 3,
+        "color": "#4D4DFF"
+    },
+    {
+        "name": "Copper Price",
+        "value": 3,
+        "color": "#4D4DFF"
+    },
+    {
+        "name": "Live Cattle",
+        "value": 1,
+        "color": "#4D4DFF"
+    },
+    {
+        "name": "Palm oil Price",
+        "value": 1,
+        "color": "#4D4DFF"
+    }
+]
