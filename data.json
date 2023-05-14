@@ -23,7 +23,8 @@
     "columnSettings": {
       "fill": "#626FBC"
     }
-  }, {
+  },
+  {
     "metric": "Vivek",
     "value": 120,
     "value2": 88,
@@ -39,7 +40,8 @@
     "columnSettings": {
       "fill": "#62A87C"
     }
-  }, {
+  },
+  {
     "metric": "Gabriel",
     "value": 50,
     "value2": 38,
@@ -50,7 +52,7 @@
   
   {
     "metric": "Darren",
-    "value": 60
+    "value": 60,
     "value2": 0,
     "columnSettings": {
       "fill": "#7EE081"
