@@ -1,5 +1,5 @@
  [{
-    "metric": "Phillip",
+    "metric": "Harris",
     "value": 0,
     "value2": 100,
     "columnSettings": {
@@ -17,7 +17,7 @@
   },
   
   {
-    "metric": "Harris",
+    "metric": "Phillip",
     "value": 130,
     "value2": 120,
     "columnSettings": {
