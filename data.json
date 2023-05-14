@@ -1,0 +1,58 @@
+ [{
+    "metric": "Phillip",
+    "value": 0,
+    "value2": 100,
+    "columnSettings": {
+      "fill": "#462255"
+    }
+  },
+  
+  {
+    "metric": "Sim",
+    "value": 100,
+    "value2": 140,
+    "columnSettings": {
+      "fill": "#313B72"
+    }
+  },
+  
+  {
+    "metric": "Harris",
+    "value": 130,
+    "value2": 120,
+    "columnSettings": {
+      "fill": "#626FBC"
+    }
+  }, {
+    "metric": "Vivek",
+    "value": 120,
+    "value2": 88,
+    "columnSettings": {
+      "fill": "#9BA4D4"
+    }
+  },
+  
+  {
+    "metric": "Amos",
+    "value": 88,
+    "value2": 50,
+    "columnSettings": {
+      "fill": "#62A87C"
+    }
+  }, {
+    "metric": "Gabriel",
+    "value": 50,
+    "value2": 38,
+    "columnSettings": {
+      "fill": "#89BE9C"
+    }
+  },
+  
+  {
+    "metric": "Darren",
+    "value": 60
+    "value2": 0,
+    "columnSettings": {
+      "fill": "#7EE081"
+    }
+  }]
