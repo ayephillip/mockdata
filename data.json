@@ -1,39 +1,40 @@
  [{
-    "metric": "Harris",
-    "value": 0,
-    "value2": 100,
-  },
-  
-  {
-    "metric": "Sim",
-    "value": 100,
-    "value2": 140,
-  },
-  
-  {
-    "metric": "Phillip",
-    "value": 130,
-    "value2": 120,
-  },
-  {
-    "metric": "Vivek",
-    "value": 120,
-    "value2": 88,
-  },
-  
-  {
-    "metric": "Amos",
-    "value": 88,
-    "value2": 50,
-  },
-  {
-    "metric": "Gabriel",
-    "value": 50,
-    "value2": 38,
-  },
-  
-  {
-    "metric": "Darren",
-    "value": 60,
-    "value2": 0,
-  }]
+ 		"metric": "Harris",
+ 		"value": 0,
+ 		"value2": 100
+ 	},
+
+ 	{
+ 		"metric": "Sim",
+ 		"value": 100,
+ 		"value2": 140
+ 	},
+
+ 	{
+ 		"metric": "Phillip",
+ 		"value": 130,
+ 		"value2": 120
+ 	},
+ 	{
+ 		"metric": "Vivek",
+ 		"value": 120,
+ 		"value2": 88
+ 	},
+
+ 	{
+ 		"metric": "Amos",
+ 		"value": 88,
+ 		"value2": 50
+ 	},
+ 	{
+ 		"metric": "Gabriel",
+ 		"value": 50,
+ 		"value2": 38
+ 	},
+
+ 	{
+ 		"metric": "Darren",
+ 		"value": 60,
+ 		"value2": 0
+ 	}
+ ]
