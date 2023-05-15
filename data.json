@@ -3,11 +3,6 @@
  		"value": 0,
  		"value2": 100
  	},
-  {
- 		"metric": "Harris",
- 		"value": 110,
- 		"value2": 150
- 	},
  	{
  		"metric": "Sim",
  		"value": 100,
@@ -40,10 +35,5 @@
  		"metric": "Darren",
  		"value": 60,
  		"value2": 0
- 	},
-  {
- 		"metric": "Darren",
- 		"value": 40,
- 		"value2": 30
  	}
  ]
