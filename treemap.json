@@ -7,17 +7,13 @@
 		"company_uid": "TSLA"
 	}],
 	"exposure": [{
-			"title": "Harris",
-			"value": 100
-		},
-		{
-			"title": "Sim",
-			"value": 60
-		},
-		{
-			"title": "Phillip",
-			"value": 30
-		}
-	]
-
+		"title": "Harris",
+		"value": 100
+	}, {
+		"title": "Sim",
+		"value": 60
+	}, {
+		"title": "Phillip",
+		"value": 30
+	}]
 }
