@@ -11,9 +11,18 @@
 		"value": 100
 	}, {
 		"title": "Sim",
-		"value": 60
+		"value": 40
 	}, {
 		"title": "Phillip",
-		"value": 30
+		"value": -10
+	},{
+		"title": "Harris",
+		"value": -20
+	}, {
+		"title": "Vivek",
+		"value": -32
+	}, {
+		"title": "Gabriel",
+		"value": 55
 	}]
 }
