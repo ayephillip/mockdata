@@ -1,16 +1,23 @@
 {
-	"title": "Portfolio2",
-	"children": [{
-			"metric": "Harris",
+	"pk": 1,
+	"title": "myPortfolio",
+	"created_at": "today",
+	"investments": [{
+		"pk": 1,
+		"company_uid": "TSLA"
+	}],
+	"exposure": [{
+			"title": "Harris",
 			"value": 100
 		},
 		{
-			"name": "Sim",
+			"title": "Sim",
 			"value": 60
 		},
 		{
-			"name": "Phillip",
+			"title": "Phillip",
 			"value": 30
 		}
 	]
+
 }
