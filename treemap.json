@@ -8,8 +8,7 @@
 	}],
 	"exposure": [{
 		"title": "Harris",
-		"value": 100,
-		"color": "#ff0000"
+		"value": 100
 	}, {
 		"title": "Sim",
 		"value": 40
