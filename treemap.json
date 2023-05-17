@@ -8,21 +8,36 @@
 	}],
 	"exposure": [{
 		"title": "Harris",
-		"value": 100
+		"value": 10
 	}, {
 		"title": "Sim",
-		"value": 40
-	}, {
-		"title": "Phillip",
-		"value": 10
-	},{
-		"title": "Harris",
 		"value": 20
 	}, {
-		"title": "Vivek",
-		"value": 32
+		"title": "Phillip",
+		"value": 40
+	},{
+		"title": "Dog",
+		"value": 50
 	}, {
-		"title": "Gabriel",
-		"value": 55
+		"title": "Cat",
+		"value": 65
+	}, {
+		"title": "Tree",
+		"value": 77
+	},{
+		"title": "Snowflake",
+		"value": 20
+	}, {
+		"title": "Orange",
+		"value": 40
+	},{
+		"title": "Irksome",
+		"value": 50
+	}, {
+		"title": "Boat",
+		"value": 65
+	}, {
+		"title": "Car",
+		"value": 77
 	}]
 }
